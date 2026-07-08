@@ -1,3 +1,3 @@
-module example.com/learn
+module learn_go_with_tests
 
 go 1.26.5
